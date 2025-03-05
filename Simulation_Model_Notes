@@ -1,0 +1,14 @@
+Simluation Model Notes
+
+05/03/2025 - Issy
+
+Notes regarding first simulation model
+- look at how all the beds are never occupied therefore there is not queing for beds
+- should we change how many patients first enter the model with still upholding each patient types IAT
+- look at time in system (should match the mean time in the unit specified in model peramters)
+- is time to ESD wrong/redundent as would be the same as time in the unit
+
+Next model updates
+- fix above issues 
+- decided how to have all patient types enter the system at one time 
+- include individual patinet group length of stays 
