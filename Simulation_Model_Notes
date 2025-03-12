@@ -2,6 +2,8 @@ Simluation Model Notes
 
 05/03/2025 - Issy
 
+Produced a basic simulation model.
+
 Notes regarding first simulation model
 - look at how all the beds are never occupied therefore there is not queing for beds
 - should we change how many patients first enter the model with still upholding each patient types IAT
@@ -12,3 +14,12 @@ Next model updates
 - fix above issues 
 - decided how to have all patient types enter the system at one time 
 - include individual patinet group length of stays 
+
+
+12/04/2025 - Issy
+
+Adjusted the simulation model to have multiple arrival generators corresponding to patinet type.
+
+Notes regarding first simulation model
+- add patient identifier to "patient arrivals at ..."
+- fix time in system variable as they arrive and leave wihtin the mean time but the calculation is wrong 
