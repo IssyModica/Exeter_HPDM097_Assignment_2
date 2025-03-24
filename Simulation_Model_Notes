@@ -23,3 +23,13 @@ Adjusted the simulation model to have multiple arrival generators corresponding 
 Notes regarding first simulation model
 - add patient identifier to "patient arrivals at ..."
 - fix time in system variable as they arrive and leave wihtin the mean time but the calculation is wrong 
+
+
+24/04/2025 - Issy
+
+Fixed the model to indlude length of stays by patient type.
+
+Notes regarding recent simulation model
+- added patient identifers at each step of the trace
+- fixed length of stay variable
+- added mean length of stays for each patient class 
