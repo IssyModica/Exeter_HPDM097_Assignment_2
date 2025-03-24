@@ -33,3 +33,7 @@ Notes regarding recent simulation model
 - added patient identifers at each step of the trace
 - fixed length of stay variable
 - added mean length of stays for each patient class 
+
+Next model updates
+- add warm up period
+- add simulation runs 
